@@ -14,7 +14,7 @@ This project focuses on building a classification model using a **Random Forest 
 
 ## 🛠️ Technologies Used
 
-- Python 3.x
+- Python 3.8.0
 - Pandas
 - NumPy
 - Scikit-Learn
